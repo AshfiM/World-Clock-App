@@ -3,9 +3,9 @@ import './App.css';
 import DropDownSearch from './Components/World-clock-app/DropDownSearch';
 
 function App() {
-
-  const TimeZoneDBapiKey = "MYZBX5328UTZ"
-  const OpenWeatherMapAPIkey = "1d8f9dd146c6fac9dc4e77a3c9a3c723"
+  //API key
+  const TimeZoneDBapiKey = ""
+  const OpenWeatherMapAPIkey = ""
   return (
     <div className="App">
 
