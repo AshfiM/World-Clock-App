@@ -1,0 +1,18 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  margin: auto;
+}
+
+body {
+  line-height: 47px;
+  background-image: url("../src/Components/Assests/backgroundImage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.app-name {
+  margin: 40px;
+  font-weight: bold;
+  font-size: 45px;
+}

@@ -1,0 +1,67 @@
+.container {
+    padding-top: 20vh;
+    margin: auto;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 20px;
+    max-height: 300px;
+    background-color: rgba(89, 57, 86, 0.939);
+    margin-top: 0px;
+    padding: 0px;
+    box-shadow: 10px;
+
+}
+
+.select-box {
+    background-color: aliceblue;
+    width: 100%;
+    border-radius: 10px;
+    height: 2rem;
+    padding: 0 15px;
+    box-shadow: 0 0 8px rgb(171, 208, 171);
+    display: flex;
+    align-items: column;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 250px;
+    background-color: rgb(115, 115, 48);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.search-boxes {
+    display:flex;
+    align-items: center;
+    background-color: rgb(142, 103, 144);
+    border-radius: 16px;
+}
+
+.notification {
+    background-color: rgb(139, 125, 108);
+    position: absolute;
+    left: 200px;
+    border-radius: 16px;
+    height: 70px;
+    bottom: 280px;
+    color: aqua;
+    align-items: center;
+    align-content: center;
+    object-fit:contain;
+    width: 330px;
+  
+  
+}  
+
+.note {
+    margin: 10px;
+    position: relative;
+    left: 4px;
+    top: 1px;
+    border-radius: 16px;
+    width: 300px;
+    background-color: rgba(130, 74, 110, 0.79);
+  
+}
